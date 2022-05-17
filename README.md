@@ -13,4 +13,5 @@ In this project we used collecting data, exploring features and distributions, t
 
 * The chosen model was XGBoost since it´s the most accurate.
 
+![Segmentation Frequency](/images/SegmentationFrequency.png) ![Marriage](/images/Marriage.png) 
 
