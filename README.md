@@ -5,10 +5,12 @@
 
 
 
-# [Project 1:](https://www.kaggle.com/code/tabriznagiyev/realestatepriceprediction)
+# [Customer Segmentation Automobile](https://www.kaggle.com/code/tabriznagiyev/customer-segmentation-automobile)
 
 # Project Overview
 
-blabla bla bla bla lbla bla 
+In this project we used collecting data, exploring features and distributions, treating data, understanding correlations, selecting relevant features, data modelling and presenting algorithms with metrics to select the best to predict the Customer Segmentation, what will help the business adopt the best marketing strategies to each of them and bring more market share and revenue to the company. 
 
-blabllalalalalala
+* The chosen model was XGBoost since it´s the most accurate.
+
+
