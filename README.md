@@ -22,5 +22,6 @@ In this project we used collecting data,matlab,numpy,pandas,seaborn,preprocessin
 - LinearRegression
 
 * The chosen model was DecisionTreeRegressor since it´s the most accurate.
-![Data with outliers](/images/__results___16_1.png) ![Data without outliers](/images/__results___15_1.png) 
+![Data with outliers](/images/__results___16_1.png)
+![Data without outliers](/images/__results___15_1.png) 
 ![Decision Tree Regression ](/images/DTR.png)
