@@ -6,7 +6,6 @@
 
 
 # [Customer Segmentation Automobile - Kaggle](https://www.kaggle.com/code/tabriznagiyev/customer-segmentation-automobile)
-
 ## Project Overview
 In this project we used collecting data, exploring features and distributions, treating data, understanding correlations, selecting relevant features, data modelling and presenting algorithms with metrics to select the best to predict the Customer Segmentation, what will help the business adopt the best marketing strategies to each of them and bring more market share and revenue to the company. 
 
@@ -15,7 +14,6 @@ In this project we used collecting data, exploring features and distributions, t
 ![Segmentation Frequency](/images/SegmentationFrequency.png) ![Marriage](/images/Marriage.png) 
 
 # [Car details v3](https://www.kaggle.com/code/tabriznagiyev/car-details-v3)
-
 ## Project Overview
 In this project we used collecting data,matlab,numpy,pandas,seaborn,preprocessing,removing outliers.
 - DecisionTreeRegressor
@@ -24,8 +22,5 @@ In this project we used collecting data,matlab,numpy,pandas,seaborn,preprocessin
 - LinearRegression
 
 * The chosen model was DecisionTreeRegressor since it´s the most accurate.
-
+![Data with outliers](/images/__results___16_1.png) ![Data without outliers](/images/__results___15_1.png) 
 ![Decision Tree Regression ](/images/DTR.png)
-
-  ![Data with outliers](/images/__results___16_1.png) ![Data without outliers](/images/__results___15_1.png) 
-
