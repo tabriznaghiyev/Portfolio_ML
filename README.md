@@ -20,6 +20,5 @@ In this project we used collecting data,matlab,numpy,pandas,seaborn,preprocessin
 - XGBClassifier
 - GradientBoostingRegressor
 - LinearRegression
-
 - The chosen model was DecisionTreeRegressor since it´s the most accurate.
 ![Decision Tree Regression ](/images/DTR.png)
