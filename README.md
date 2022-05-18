@@ -14,3 +14,18 @@ In this project we used collecting data, exploring features and distributions, t
 
 ![Segmentation Frequency](/images/SegmentationFrequency.png) ![Marriage](/images/Marriage.png) 
 
+# [Car details v3](https://www.kaggle.com/code/tabriznagiyev/car-details-v3)
+
+## Project Overview
+In this project we used collecting data,matlab,numpy,pandas,seaborn,preprocessing,removing outliers.
+- DecisionTreeRegressor
+- XGBClassifier
+- GradientBoostingRegressor
+- LinearRegression
+
+* The chosen model was DecisionTreeRegressor since it´s the most accurate.
+
+![Decision Tree Regression ](/images/DTR.png) ![Decision Tree Regression](/images/DTR2.png) 
+
+![Difference between outlier and non-outlier graph](/images/__results___16_1.png) ![](/images/__results___15_1.png) 
+
