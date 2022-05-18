@@ -25,7 +25,7 @@ In this project we used collecting data,matlab,numpy,pandas,seaborn,preprocessin
 
 * The chosen model was DecisionTreeRegressor since it´s the most accurate.
 
-![Decision Tree Regression ](/images/DTR.png) ![Decision Tree Regression](/images/DTR2.png) 
+![Decision Tree Regression ](/images/DTR.png)
 
-![Difference between outlier and non-outlier graph](/images/__results___16_1.png) ![](/images/__results___15_1.png) 
+![Data with outliers](/images/__results___16_1.png) ![Data without outliers](/images/__results___15_1.png) 
 
