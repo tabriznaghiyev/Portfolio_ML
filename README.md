@@ -13,7 +13,7 @@ In this project we used collecting data, exploring features and distributions, t
 
 ![Segmentation Frequency](/images/SegmentationFrequency.png) ![Marriage](/images/Marriage.png) 
 
-# [Car details v3](https://www.kaggle.com/code/tabriznagiyev/car-details-v3)
+# [Car details v3 - Kaggle](https://www.kaggle.com/code/tabriznagiyev/car-details-v3)
 ## Project Overview
 In this project we used collecting data,matlab,numpy,pandas,seaborn,preprocessing,removing outliers.
 - DecisionTreeRegressor
