@@ -27,5 +27,5 @@ In this project we used collecting data,matlab,numpy,pandas,seaborn,preprocessin
 
 ![Decision Tree Regression ](/images/DTR.png)
 
-![Data with outliers](/images/__results___16_1.png) ![Data without outliers](/images/__results___15_1.png) 
+  ![Data with outliers](/images/__results___16_1.png) ![Data without outliers](/images/__results___15_1.png) 
 
