@@ -31,3 +31,10 @@ Well, we're going to find out! The Nobel Foundation has made a dataset available
 ![Nobel Prize](/images/nobel.png)
 
 
+
+
+# [The Android App Market on Google Play - Datacamp](https://app.datacamp.com/workspace/w/839be540-29ac-46bb-90ee-17df3e0aef14)
+## Project Overview
+Mobile apps are everywhere. They are easy to create and can be lucrative. Because of these two factors, more and more apps are being developed. In this notebook, we will do a comprehensive analysis of the Android app market by comparing over ten thousand apps in Google Play across different categories. We'll look for insights in the data to devise strategies to drive growth and retention.
+
+![Google Play](/images/google_play_store.webp)
